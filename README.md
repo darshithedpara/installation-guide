@@ -5,18 +5,18 @@
 Just go through available below md files and install services and tools.
 
 - [Apache](./apache.installation.md)
-- [VirtualHost Setup](./apache.installation.md)
-- [Composer](./apache.installation.md)
-- [Laravel](./apache.installation.md)
-- [MongoDB](./apache.installation.md)
-- [MySql](./apache.installation.md)
-- [PHP](./apache.installation.md)
-- [PhpMyAdmin](./apache.installation.md)
-- [Redis](./apache.installation.md)
+- [VirtualHost Setup](./virtualhost.setup.md)
+- [Composer](./composer.installation.md)
+- [Laravel](./laravel.setup.md)
+- [MongoDB](./mongodb.installation.md)
+- [MySql](./mysql.installation.md)
+- [PHP](./php.installation.md)
+- [PhpMyAdmin](./phpmyadmin.installation.md)
+- [Redis](./redis.installation.md)
 
-**Comming Soon :**
+**Coming Soon :**
 
-- [Cron](./apache.installation.md)
+- [Cron](./cron.installation.md)
 
 
 ## Author
